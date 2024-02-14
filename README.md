@@ -1,6 +1,7 @@
 # dvault-docs
 
-**NOTICE:** This Ðapp has ended.
+**NOTICE:** We were the first to build an ERC4337 wallet in early 2023, but have ended its support. The live website and app are still available online.
+
 
 ## Ðapp Overview
 Empower your business with blockchain solutions. Transform your business with our easy-to-use account infrastructure, powered by advanced blockchain tools for seamless integration.
@@ -19,10 +20,6 @@ Empower your business with blockchain solutions. Transform your business with ou
   - Ðetermistic Tools: Scalable & adaptive blockchain solution.
   - Customizable, Adaptable, Open-Source.
   - EVM Compatible.
-
-# dvault-docs
-
-We were the first to build an ERC4337 wallet in early 2023, but have ended its support. The live website and app are still available online.
 
 - [App](https://app.dvault.site)
 - [Website](https://www.dvault.site)
