@@ -2,6 +2,11 @@
 
 **NOTICE:** We were the first to build an ERC4337 wallet in early 2023, but have ended its support. The live website and app are still available online.
 
+- 🥇 One of the first ERC4337 account abstraction wallets online for over a year.
+- 🔐 It is a self-custody ERC4337 AA wallet and planned to implement self zero knowledge proofs.
+
+
+## Proof of Concept
 - **ZKRYPTion**
   - Zero Knowledge-based Self-custody account authentication.
   - EVM Compatible.
