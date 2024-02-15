@@ -2,10 +2,6 @@
 
 **NOTICE:** We were the first to build an ERC4337 wallet in early 2023, but have ended its support. The live website and app are still available online.
 
-
-## Ðapp Overview
-Empower your business with blockchain solutions. Transform your business with our easy-to-use account infrastructure, powered by advanced blockchain tools for seamless integration.
-
 - **ZKRYPTion**
   - Zero Knowledge-based Self-custody account authentication.
   - EVM Compatible.
